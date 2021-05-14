@@ -1,6 +1,6 @@
 # Red Alerts - אזעקות צבע אדום של פיקוד העורף
 
-[![RedAlertLogo](/RedAlerts.jpg)]
+![RedAlertLogo](/RedAlerts.jpg)]
 
 A notebook to collect and process data on rocket launching alerts in Israel.
 
